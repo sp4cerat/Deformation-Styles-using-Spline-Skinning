@@ -1,5 +1,4 @@
 # Deformation-Styles-using-Spline-Skinning
-Deformation Styles using Spline Skinning
 
 [![Deformation Styles using Spline Skinning](http://i.imgur.com/wfgSRcN.png)](http://dl.acm.org/citation.cfm?id=1272690.1272710)
 
