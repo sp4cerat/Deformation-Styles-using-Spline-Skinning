@@ -1,0 +1,9 @@
+newmtl initialShadingGroup1
+illum 4
+Kd 0.90 0.70 0.30
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bindleg2.bmp
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 0.06

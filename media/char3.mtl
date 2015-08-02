@@ -1,0 +1,22 @@
+newmtl blinn3SG
+illum 4
+Kd 0.00 0.51 1.00
+Ka 0.33 0.33 0.33
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+newmtl blinn6SG
+illum 4
+Kd 0.90 0.70 0.30
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd female-bind.bmp
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl female_blinn2SG
+illum 4
+Kd 1.00 0.00 0.04
+Ka 0.26 0.00 0.01
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
